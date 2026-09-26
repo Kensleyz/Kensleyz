@@ -3,7 +3,7 @@
 **Backend engineer (C# / .NET) building AI into real business systems.**
 I connect LLMs to production data: agents, natural-language-to-SQL, and automation that saves teams real hours.
 
-📍 Cape Town, South Africa · 🌍 Open to remote roles · 🏢 Founder of **DigiStep**, a digitisation consultancy
+📍 Cape Town, South Africa 
 
 ---
 

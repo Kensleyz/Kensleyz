@@ -1,54 +1,46 @@
-### Hi there, I'm Kyle Kensley Naicker - aka [kenz][website] 👋
+# Hi, I'm Kensley (Kenz) 👋
 
+**Backend engineer (C# / .NET) building AI into real business systems.**
+I connect LLMs to production data: agents, natural-language-to-SQL, and automation that saves teams real hours.
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-### Connect with me:
-
-[<img align="left" alt="kensley.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="kensley | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="kensley | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kensley | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kensley | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
-<br />
+📍 Cape Town, South Africa · 🌍 Open to remote roles · 🏢 Founder of **DigiStep**, a digitisation consultancy
 
 ---
-[website]: https://mysite.com
-[twitter]: https://twitter.com/MrKensley
-[linkedin]: https://www.linkedin.com/in/kensley-naicker-bba70757/
-[youtube]: https://youtube.com/channel/UCf4Lwubtbf8iXLtqj0KUIug/playlists
-[instagram]: https://instagram.com/mrkenzilla
 
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+### 🔧 What I work with
 
+**Backend:** C# · .NET · ASP.NET Core · REST APIs · Domain-Driven Design
+**Data:** SQL Server · PostgreSQL · MySQL
+**AI:** LLM integration (Claude, OpenAI) · Agents & tool use · NL-to-SQL · Prompt engineering · MCP
+**Cloud & DevOps:** Azure · Git · CI/CD
+**Frontend:** React · JavaScript · PHP / CodeIgniter
+
+[![Stack](https://skillicons.dev/icons?i=cs,dotnet,azure,postgres,mysql,react,js,php,git,docker&perline=10)](#)
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Mr Bear](REPO_LINK)** | AI agent that lets non-technical users query business databases in plain English (NL-to-SQL), deployed for multiple clients | .NET · LLM API · SQL |
+| **[JARVIS](REPO_LINK)** | Personal AI assistant on Telegram with tool calling and task automation | LLM API · Telegram Bot API |
+| **[Cutlist Optimizer](REPO_LINK)** | Free web tool that calculates optimal cutting layouts for sheet material | JavaScript · GitHub Pages |
+| **[PageBoost](REPO_LINK)** | SaaS for scheduling Facebook page posts | FILL_IN_STACK |
+
+---
+
+### 🧠 Right now
+- Designing AI features that sit on top of existing enterprise systems
+- Going deeper on DDD and clean architecture in .NET
+- Serving as an AI Ambassador, helping teams adopt AI tooling well
+
+---
+
+### 📫 Connect
+[![Website](https://img.shields.io/badge/Portfolio-000?style=flat&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kensley-naicker-bba70757/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/channel/UCf4Lwubtbf8iXLtqj0KUIug/playlists)
+[![X](https://img.shields.io/badge/X-000?style=flat&logo=x&logoColor=white)](https://x.com/MrKensley)
+
+<sub>Husband, dad, and teacher at heart. Off the keyboard I draw, play guitar and drums, and work on cars.</sub>
